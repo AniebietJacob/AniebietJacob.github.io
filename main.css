@@ -1,24 +1,24 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
-.title {
+.jumbotron {
+  display: flex;
+  align-items: baseline;
   background-image: url();
   background-size: cover;
+  height: auto;
 }
 
 #name {
   font-family: cursive;
   color: white;
-  text-align: center;
 }
 
 #cmsc {
   font-family:  monospace;
   color: white;
-  text-align: center;
 }
 
 #anime {
   font-family: fantasy;
   color: white;
-  text-align: center;
 }
