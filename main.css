@@ -3,20 +3,22 @@
 .title {
   background-image: url();
   background-size: cover;
-  text-align: center;
 }
 
 #name {
   font: 400 100px/1.3 'Arizonia', Helvetica, sans-serif;
   color: white;
+  text-align: center;
 }
 
 #cmsc {
   font-family:  monospace;
   color: white;
+  text-align: center;
 }
 
 #anime {
   font-family: fantasy;
   color: white;
+  text-align: center;
 }
