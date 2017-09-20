@@ -1,0 +1,19 @@
+.title {
+  background-image: url();
+  background-size: cover;
+}
+
+#name {
+  font-family: cursive;
+  color: white;
+}
+
+#cmsc {
+  font-family:  monospace;
+  color: white;
+}
+
+#anime {
+  font-family: fantasy;
+  color: white;
+}
