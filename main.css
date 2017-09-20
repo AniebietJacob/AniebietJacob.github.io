@@ -1,8 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
-
 .jumbotron {
   display: flex;
-  align-items: baseline;
+  align-items: center;
   background-image: url();
   background-size: cover;
   height: auto;
@@ -10,15 +8,18 @@
 
 #name {
   font-family: cursive;
+  font-size: 40px;
   color: white;
 }
 
 #cmsc {
   font-family:  monospace;
+  font-size: 40px;
   color: white;
 }
 
 #anime {
   font-family: fantasy;
+  font-size: 40px;
   color: white;
 }
