@@ -1,6 +1,5 @@
 .jumbotron {
   display: flex;
-  align-items: center;
   background-image: url();
   background-size: cover;
   height: auto;
@@ -10,16 +9,19 @@
   font-family: cursive;
   font-size: 40px;
   color: white;
+  align-items: center;
 }
 
 #cmsc {
   font-family:  monospace;
   font-size: 40px;
   color: white;
+  align-items: center;
 }
 
 #anime {
   font-family: fantasy;
   font-size: 40px;
   color: white;
+  align-items: center;
 }
